@@ -1,6 +1,6 @@
 import requests
 
-API_KEY = 'AIzaSyCRrEfg2sme2u_eYhsrLFyrzpgexJ1ugcw'  # Replace with API key
+API_KEY = ''  # Replace with API key
 
 # List of video IDs to check
 video_ids = ['W7RXTVihRok', 'GH6Vt8SUy-U', 'U62HaQb41T8', 'Y9O_K0oHDnM', 'AjrgHf2Yp_Q', 

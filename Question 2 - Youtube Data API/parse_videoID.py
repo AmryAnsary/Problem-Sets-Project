@@ -1,7 +1,7 @@
 import requests
 
 # API key and the search URL
-API_KEY = 'AIzaSyCRrEfg2sme2u_eYhsrLFyrzpgexJ1ugcw'
+API_KEY = ''
 SEARCH_URL = f"https://youtube.googleapis.com/youtube/v3/search?part=snippet&maxResults=20&order=date&q=surfing&type=video&key=AIzaSyCRrEfg2sme2u_eYhsrLFyrzpgexJ1ugcw"
 
 # Make the API request
